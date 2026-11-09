@@ -1,6 +1,7 @@
 data/
-logs/
 __pycache__/
+*.pyc
 *.zip
 *.bin
-checkpoints/pretrain/
+checkpoints/pretrain/ckpt_last.pt
+.ipynb_checkpoints/

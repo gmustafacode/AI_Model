@@ -1,0 +1,12 @@
+{
+  "status": "finished",
+  "step": 1346,
+  "max_steps": 1346,
+  "tokens_seen": 352845824,
+  "best_val": 3.7125213146209717,
+  "skipped_steps": 0,
+  "session_seconds": 13604.8,
+  "params": 100092672,
+  "tokens_per_step": 262144,
+  "world_size": 2
+}

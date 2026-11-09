@@ -1,0 +1,128 @@
+[
+  {
+    "prompt": "The history of science",
+    "setting": "greedy + repetition_penalty 1.2",
+    "text": " fiction is a collection of stories that are often overlooked or forgotten.\n- The Story of the World: A History of Science Fiction, by Robert E. Lee and John F. Kennedy (New York: Oxford University Press, 2004), p. 210.\n- The Story of the World",
+    "finish": "max_new_tokens",
+    "new_tokens": 60
+  },
+  {
+    "prompt": "The history of science",
+    "setting": "temperature 0.8, top-p 0.9",
+    "text": " fiction and fiction is the most interesting and wonderful place to go.\nHollywood Park was one of the last locations of the Iron Works in California, just one of the more famous North American, Idaho, a museum that was a part of the National Museum of Natural History and the National Museum of",
+    "finish": "max_new_tokens",
+    "new_tokens": 60
+  },
+  {
+    "prompt": "The history of science",
+    "setting": "temperature 1.0, top-k 40",
+    "text": " fiction and fiction is still in the collection as it was later published by the Harvard Business Library.",
+    "finish": "eos",
+    "new_tokens": 20
+  },
+  {
+    "prompt": "In the beginning",
+    "setting": "greedy + repetition_penalty 1.2",
+    "text": " of the 20th century, the first major change in the economy was made to the idea that the economy is a product of its own. The concept of the economy has been applied to many other sectors and industries as well.\nThe economic system is based on the idea of the economy which is an",
+    "finish": "max_new_tokens",
+    "new_tokens": 60
+  },
+  {
+    "prompt": "In the beginning",
+    "setting": "temperature 0.8, top-p 0.9",
+    "text": " of the 19th century, the North was ruled by the Western Kingdom. In the 18th century, the United States was formed in America, and the United States was the third sovereign state.\n\nThe U.S. was a different country than the United States.\n\nIn the 1950",
+    "finish": "max_new_tokens",
+    "new_tokens": 60
+  },
+  {
+    "prompt": "In the beginning",
+    "setting": "temperature 1.0, top-k 40",
+    "text": " of the 19th century, the church was founded by the Romans by the name of the Church of Christ of the Holy Spirit. During this period, the Church became part of its first church.\n\nThe following churches were founded by their founder, known as the Reformed Church of Nazareth.",
+    "finish": "max_new_tokens",
+    "new_tokens": 60
+  },
+  {
+    "prompt": "def fibonacci(n):",
+    "setting": "greedy + repetition_penalty 1.2",
+    "text": " a.dv/bp-1.\n- ↑ \"Affiliation of the Bromley's Flex\". The Oxford Dictionary of National Biography. Retrieved 2007-08-28.\n- ^ \"The Bromley's Flex\". Archived from the original on 2008-",
+    "finish": "max_new_tokens",
+    "new_tokens": 60
+  },
+  {
+    "prompt": "def fibonacci(n):",
+    "setting": "temperature 0.8, top-p 0.9",
+    "text": " anachronid)\n\nInfluenza virus\n\nAcademics\nLecture's international development programme\n\nThe programme was aimed at the students of the programme but was based on the following courses:\n\nHindi-language courses:\nAcademics, secondary courses",
+    "finish": "max_new_tokens",
+    "new_tokens": 60
+  },
+  {
+    "prompt": "def fibonacci(n):",
+    "setting": "temperature 1.0, top-k 40",
+    "text": " anachronidactyl\n\nAchievements\n\nHymnastics\nNagoya – a multi-purpose stadium in Ottawa Prefecture.\nCarolina, a multi-purpose stadium in Ganagera, Ottawa, Japan, and a",
+    "finish": "max_new_tokens",
+    "new_tokens": 60
+  },
+  {
+    "prompt": "Water boils at",
+    "setting": "greedy + repetition_penalty 1.2",
+    "text": " the bottom of the water.\nThe water is then pumped to a depth of about 1,000 feet (1,200 meters) and then into the water. The water is then cooled by the water in order to get it back up. This process can be done with a small amount of water",
+    "finish": "max_new_tokens",
+    "new_tokens": 60
+  },
+  {
+    "prompt": "Water boils at",
+    "setting": "temperature 0.8, top-p 0.9",
+    "text": " sea level, and the pH is not as high as the pH of the water at the bottom.\nThe pH of the water at the bottom of the water is not the same as the pH at the bottom of the water at the bottom of the water at the bottom of the water at the bottom",
+    "finish": "max_new_tokens",
+    "new_tokens": 60
+  },
+  {
+    "prompt": "Water boils at",
+    "setting": "temperature 1.0, top-k 40",
+    "text": " sea level, while the males also have a higher percentage of male eggs. For example it was not clear because of a decline in population size in the summertime, and the females generally do not even know it when they need it.\nFemale eggs are found in the wild, and they live",
+    "finish": "max_new_tokens",
+    "new_tokens": 60
+  },
+  {
+    "prompt": "یہ ایک",
+    "setting": "greedy + repetition_penalty 1.2",
+    "text": "ی بندر\n- Адеричансково (глам)\n- Бубриханыя (Тузприй)",
+    "finish": "max_new_tokens",
+    "new_tokens": 60
+  },
+  {
+    "prompt": "یہ ایک",
+    "setting": "temperature 0.8, top-p 0.9",
+    "text": "یۀای شهکیکیکیکیکککییککیکیکککککیک",
+    "finish": "max_new_tokens",
+    "new_tokens": 60
+  },
+  {
+    "prompt": "یہ ایک",
+    "setting": "temperature 1.0, top-k 40",
+    "text": "ېۀای شهکیږېڲېڲفکککېېیگتسېېڲېرڅنچۆگ",
+    "finish": "max_new_tokens",
+    "new_tokens": 60
+  },
+  {
+    "prompt": "भारत की राजधानी",
+    "setting": "greedy + repetition_penalty 1.2",
+    "text": " प्यंिमलवसदचथणहगषिःशिमिमिमिमिमिम",
+    "finish": "max_new_tokens",
+    "new_tokens": 60
+  },
+  {
+    "prompt": "भारत की राजधानी",
+    "setting": "temperature 0.8, top-p 0.9",
+    "text": " अि पूसम्ः पि धििम्मंमिक्म्मिम्मम्ममम",
+    "finish": "max_new_tokens",
+    "new_tokens": 60
+  },
+  {
+    "prompt": "भारत की राजधानी",
+    "setting": "temperature 1.0, top-k 40",
+    "text": " ا؀)\n\nInfluences\n\nSukuro écoucée \nThis novel deals with the philosophical, philosophical, philosophical and the historical development of the Western culture, a number of years before their foundation on the Western language. It is the main themes of",
+    "finish": "max_new_tokens",
+    "new_tokens": 60
+  }
+]

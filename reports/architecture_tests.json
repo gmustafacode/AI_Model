@@ -1,0 +1,134 @@
+[
+  {
+    "test": "test_attention_shape_and_multihead_split",
+    "status": "PASS",
+    "seconds": 0.13,
+    "message": ""
+  },
+  {
+    "test": "test_attention_sink_stays_visible",
+    "status": "PASS",
+    "seconds": 0.05,
+    "message": ""
+  },
+  {
+    "test": "test_block_shape",
+    "status": "PASS",
+    "seconds": 0.01,
+    "message": ""
+  },
+  {
+    "test": "test_causal_no_future_leak_all_positions",
+    "status": "PASS",
+    "seconds": 0.07,
+    "message": ""
+  },
+  {
+    "test": "test_cuda_autocast_fp16_finite",
+    "status": "PASS",
+    "seconds": 1.51,
+    "message": ""
+  },
+  {
+    "test": "test_embedding_shape",
+    "status": "PASS",
+    "seconds": 0.0,
+    "message": ""
+  },
+  {
+    "test": "test_grad_checkpoint_equivalence",
+    "status": "PASS",
+    "seconds": 2.94,
+    "message": ""
+  },
+  {
+    "test": "test_gradient_flow_every_parameter",
+    "status": "PASS",
+    "seconds": 0.15,
+    "message": ""
+  },
+  {
+    "test": "test_initial_loss_is_near_log_vocab",
+    "status": "PASS",
+    "seconds": 0.01,
+    "message": ""
+  },
+  {
+    "test": "test_input_validation_errors",
+    "status": "PASS",
+    "seconds": 0.0,
+    "message": ""
+  },
+  {
+    "test": "test_kv_cache_matches_uncached_and_cache_stays_bounded",
+    "status": "PASS",
+    "seconds": 0.42,
+    "message": ""
+  },
+  {
+    "test": "test_logits_shape_all_variants",
+    "status": "PASS",
+    "seconds": 0.06,
+    "message": ""
+  },
+  {
+    "test": "test_loss_ignore_index_and_fully_masked",
+    "status": "PASS",
+    "seconds": 0.01,
+    "message": ""
+  },
+  {
+    "test": "test_param_count_matches_analytic",
+    "status": "PASS",
+    "seconds": 0.07,
+    "message": ""
+  },
+  {
+    "test": "test_rmsnorm_matches_formula_and_is_stable",
+    "status": "PASS",
+    "seconds": 0.0,
+    "message": ""
+  },
+  {
+    "test": "test_rope_preserves_norm",
+    "status": "PASS",
+    "seconds": 0.0,
+    "message": ""
+  },
+  {
+    "test": "test_rope_scores_depend_only_on_relative_position",
+    "status": "PASS",
+    "seconds": 0.0,
+    "message": ""
+  },
+  {
+    "test": "test_save_and_load_roundtrip",
+    "status": "PASS",
+    "seconds": 0.04,
+    "message": ""
+  },
+  {
+    "test": "test_sinusoidal_table_properties",
+    "status": "PASS",
+    "seconds": 0.0,
+    "message": ""
+  },
+  {
+    "test": "test_sliding_window_blocks_far_past",
+    "status": "PASS",
+    "seconds": 0.01,
+    "message": ""
+  },
+  {
+    "test": "test_swiglu_is_roughly_parameter_matched_to_gelu",
+    "status": "PASS",
+    "seconds": 0.0,
+    "message": ""
+  },
+  {
+    "test": "test_tied_embeddings",
+    "status": "PASS",
+    "seconds": 0.01,
+    "message": ""
+  }
+]

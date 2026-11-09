@@ -1,0 +1,56 @@
+[
+  {
+    "test": "roundtrip_unicode",
+    "status": "PASS",
+    "seconds": 0.0,
+    "message": ""
+  },
+  {
+    "test": "empty_input",
+    "status": "PASS",
+    "seconds": 0.0,
+    "message": ""
+  },
+  {
+    "test": "special_ids_fixed",
+    "status": "PASS",
+    "seconds": 0.0,
+    "message": ""
+  },
+  {
+    "test": "special_token_handling_and_injection_escape",
+    "status": "PASS",
+    "seconds": 0.0,
+    "message": ""
+  },
+  {
+    "test": "chat_markers",
+    "status": "PASS",
+    "seconds": 0.0,
+    "message": ""
+  },
+  {
+    "test": "ids_in_range",
+    "status": "PASS",
+    "seconds": 0.0,
+    "message": ""
+  },
+  {
+    "test": "long_sequence",
+    "status": "PASS",
+    "seconds": 0.67,
+    "message": ""
+  },
+  {
+    "test": "save_load_identical",
+    "status": "PASS",
+    "seconds": 0.1,
+    "message": ""
+  },
+  {
+    "test": "byte_baseline_roundtrip",
+    "status": "PASS",
+    "seconds": 0.0,
+    "message": ""
+  }
+]

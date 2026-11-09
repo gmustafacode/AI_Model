@@ -1,0 +1,36 @@
+{
+  "profile": "balanced",
+  "step": 1346,
+  "params": 100092672,
+  "status": "finished",
+  "tokens_seen": 352845824,
+  "bytes_per_token_val": 4.441151502439671,
+  "eval": {
+    "train_sample": {
+      "loss": 3.6763130474090575,
+      "ppl": 39.500488835353046,
+      "windows": 400,
+      "tokens": 409600,
+      "bits_per_byte": 1.1942395118335614
+    },
+    "val": {
+      "loss": 3.6870459270477296,
+      "ppl": 39.92672611270734,
+      "windows": 2000,
+      "tokens": 2048000,
+      "bits_per_byte": 1.1977260563075933
+    },
+    "test": {
+      "loss": 3.6987765102386474,
+      "ppl": 40.39784775830089,
+      "windows": 2000,
+      "tokens": 2048000,
+      "bits_per_byte": 1.2015367018545817
+    }
+  },
+  "baselines": {
+    "uniform_loss": 10.373491181781864,
+    "unigram_val_loss": 7.672884274032406
+  },
+  "data_mode": "hf"
+}

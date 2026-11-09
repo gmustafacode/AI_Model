@@ -1,0 +1,19 @@
+{
+  "vocab_size": 32000,
+  "block_size": 1024,
+  "n_layer": 12,
+  "n_head": 12,
+  "n_kv_head": 4,
+  "n_embd": 768,
+  "dropout": 0.0,
+  "pos_type": "rope",
+  "norm_type": "rmsnorm",
+  "ffn_type": "swiglu",
+  "ffn_hidden": null,
+  "rope_base": 10000.0,
+  "tie_embeddings": true,
+  "sliding_window": null,
+  "attention_sink": 0,
+  "grad_checkpoint": false,
+  "init_std": 0.02
+}

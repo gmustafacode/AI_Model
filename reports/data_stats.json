@@ -1,0 +1,38 @@
+{
+  "mode": "hf",
+  "rejected": {
+    "prefix_dup": 593,
+    "exact_dup": 104,
+    "replacement_chars": 3,
+    "repeated_words": 35,
+    "low_alpha": 23,
+    "too_short": 1572,
+    "repeated_lines": 50
+  },
+  "per_split": {
+    "train": {
+      "docs": 330923,
+      "chars": 1568196472
+    },
+    "val": {
+      "docs": 3357,
+      "chars": 16008169
+    },
+    "test": {
+      "docs": 3411,
+      "chars": 15796282
+    }
+  },
+  "per_source": {
+    "fineweb_edu": {
+      "docs": 255304,
+      "chars": 1200000084,
+      "char_budget": 1200000000
+    },
+    "wikipedia_en": {
+      "docs": 82387,
+      "chars": 400000839,
+      "char_budget": 400000000
+    }
+  }
+}

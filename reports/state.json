@@ -1,0 +1,63 @@
+{
+  "data": {
+    "done": true,
+    "mode": "hf"
+  },
+  "tokenizer": {
+    "done": true,
+    "vocab_size": 32000,
+    "seconds": 24.9
+  },
+  "tokenized": {
+    "done": true
+  },
+  "stage1": {
+    "done": true,
+    "profile": "balanced",
+    "vocab_size": 32000,
+    "tokens": {
+      "train": 352865819,
+      "val": 3623440,
+      "test": 3548272
+    },
+    "data_mode": "hf"
+  },
+  "stage2": {
+    "done": true,
+    "arch_tests_passed": 22,
+    "measured_tokens_per_s": 14337
+  },
+  "pretrain_plan": {
+    "max_steps": 1346,
+    "warmup_steps": 40,
+    "lr": 0.0006,
+    "min_lr": 5.9999999999999995e-05,
+    "micro_batch": 8,
+    "grad_accum": 32,
+    "grad_checkpoint": false,
+    "planned_hours": 8.0,
+    "limited_by": "data",
+    "tokens_per_step": 262144,
+    "measured_tokens_per_s": 14337
+  },
+  "pretrain": {
+    "done": true,
+    "status": "finished",
+    "step": 1346,
+    "max_steps": 1346,
+    "tokens_seen": 352845824,
+    "best_val": 3.7125213146209717,
+    "skipped_steps": 0,
+    "session_seconds": 13604.8,
+    "params": 100092672,
+    "tokens_per_step": 262144,
+    "world_size": 2
+  },
+  "stage3": {
+    "done": true,
+    "tests_passed": 17,
+    "val_loss": 3.6870459270477296,
+    "test_loss": 3.6987765102386474,
+    "step": 1346
+  }
+}

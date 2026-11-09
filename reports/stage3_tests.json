@@ -1,0 +1,104 @@
+[
+  {
+    "test": "test_checkpoint_contents_and_roundtrip",
+    "status": "PASS",
+    "seconds": 0.64,
+    "message": ""
+  },
+  {
+    "test": "test_eos_max_length_context_limit_and_streaming",
+    "status": "PASS",
+    "seconds": 0.05,
+    "message": ""
+  },
+  {
+    "test": "test_eval_windows_are_deterministic_nonoverlapping_in_range",
+    "status": "PASS",
+    "seconds": 0.0,
+    "message": ""
+  },
+  {
+    "test": "test_evaluate_is_deterministic_eval_mode_no_grad_and_independent",
+    "status": "PASS",
+    "seconds": 0.1,
+    "message": ""
+  },
+  {
+    "test": "test_exact_resume_matches_uninterrupted_run",
+    "status": "PASS",
+    "seconds": 2.48,
+    "message": ""
+  },
+  {
+    "test": "test_generation_past_block_size_with_rolling_cache_and_mode_restored",
+    "status": "PASS",
+    "seconds": 0.24,
+    "message": ""
+  },
+  {
+    "test": "test_greedy_matches_manual_argmax_and_cache_matches_uncached",
+    "status": "PASS",
+    "seconds": 0.09,
+    "message": ""
+  },
+  {
+    "test": "test_lr_schedule_warmup_cosine_min",
+    "status": "PASS",
+    "seconds": 0.0,
+    "message": ""
+  },
+  {
+    "test": "test_never_silently_restarts_and_rejects_config_drift",
+    "status": "PASS",
+    "seconds": 0.96,
+    "message": ""
+  },
+  {
+    "test": "test_one_step_updates_every_param_and_resets_grads",
+    "status": "PASS",
+    "seconds": 0.23,
+    "message": ""
+  },
+  {
+    "test": "test_optimizer_groups_cover_every_param_once_and_decay_rules",
+    "status": "PASS",
+    "seconds": 0.04,
+    "message": ""
+  },
+  {
+    "test": "test_repetition_penalty",
+    "status": "PASS",
+    "seconds": 0.0,
+    "message": ""
+  },
+  {
+    "test": "test_sampling_reproducible_and_topk1_is_greedy",
+    "status": "PASS",
+    "seconds": 0.12,
+    "message": ""
+  },
+  {
+    "test": "test_tokenbin_batch_alignment_range_and_shape",
+    "status": "PASS",
+    "seconds": 0.0,
+    "message": ""
+  },
+  {
+    "test": "test_top_k_and_top_p_filters",
+    "status": "PASS",
+    "seconds": 0.0,
+    "message": ""
+  },
+  {
+    "test": "test_trainconfig_validation",
+    "status": "PASS",
+    "seconds": 0.0,
+    "message": ""
+  },
+  {
+    "test": "test_training_reduces_loss_on_real_data",
+    "status": "PASS",
+    "seconds": 3.03,
+    "message": ""
+  }
+]

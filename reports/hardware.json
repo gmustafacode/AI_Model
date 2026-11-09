@@ -1,0 +1,28 @@
+{
+  "python": "3.13.16",
+  "torch": "2.11.0+cu130",
+  "cuda_available": true,
+  "cuda_version": "13.0",
+  "cpu_count": 4,
+  "ram_total_gb": 31.3,
+  "ram_available_gb": 29.6,
+  "disk_total_gb": 19.5,
+  "disk_free_gb": 19.5,
+  "gpus": [
+    {
+      "index": 0,
+      "name": "Tesla T4",
+      "vram_gb": 14.56,
+      "capability": "7.5"
+    },
+    {
+      "index": 1,
+      "name": "Tesla T4",
+      "vram_gb": 14.56,
+      "capability": "7.5"
+    }
+  ],
+  "bf16_supported": false,
+  "fp16_supported": true,
+  "amp_dtype": "float16"
+}
